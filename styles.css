@@ -21,6 +21,12 @@ body {
 
 }
 /** links **/
-.primary-link {
-    color :var(--primary-color;)
+
+.link{
+    text-decoration:none;
+
+}
+
+.link-primary {
+    color :var(--primary-color);
 }
