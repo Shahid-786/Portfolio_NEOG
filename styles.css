@@ -9,6 +9,12 @@
 body {
     font-family: 'Montserrat', sans-serif;
 }
+
+hr {
+    margin: 2rem 0rem;
+
+}
+
 /**container**/
 .container {
     padding: 0rem 1rem;
@@ -40,4 +46,4 @@ body {
     border: 1px solid var(--primary-color);
 }
 
-/**look into BEM naming converntion for css **/
+/**look into BEM naming converntion for css **/  
